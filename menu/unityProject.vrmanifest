@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.menu.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\basse\\Desktop\\School\\SE-451\\ITT-master\\menu\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "menu [Testing]"
+        }
+      }
+    }
+  ]
+}

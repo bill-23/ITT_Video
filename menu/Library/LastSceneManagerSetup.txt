@@ -1,0 +1,13 @@
+sceneSetups:
+- path: Assets/Scenes/LoginScene.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Scenes/PuzzleScene.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/Scenes/LeverScene.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/PuzzleTutorial.unity
+  isLoaded: 0
+  isActive: 0
